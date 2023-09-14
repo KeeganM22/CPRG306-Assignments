@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
         <StudentInfo />
-        <Link href="\week2\page.js">Shopping List</Link>
+        <Link href="\week2">Shopping List</Link>
     </>
     
     
