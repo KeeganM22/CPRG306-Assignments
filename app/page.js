@@ -6,11 +6,11 @@ export default function Home() {
     <>
         <StudentInfo />
         <Link href="\week2">Shopping List</Link>
+        <h2> {Add(2, 3)}</h2>
     </>
-    
-    
   );
-  
 }
 
-
+function Add(x, y) {
+  return (x+y);
+}
