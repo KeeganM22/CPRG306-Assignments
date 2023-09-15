@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <>
         <StudentInfo />
-        <Link href="\week2">Shopping List</Link>
-        <h2> {Add(2, 3)}</h2>
+        <Link href="\week2">Week 2</Link>
+        <h2> 2 + 3 = {Add(2, 3)}</h2>
     </>
   );
 }
