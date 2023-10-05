@@ -110,7 +110,7 @@ export default function ItemList() {
         </div>
         <div>
           <Item name={item12.name} quantity={item12.quantity} category={item12.category}></Item>
-        </div>
+        </div>z
         </>
         
       )
